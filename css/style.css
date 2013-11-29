@@ -3,7 +3,10 @@ body {
 	color: #FAF3BC;
 	background: #420600 url('img/bg-texture.jpg') repeat;
 }
-
+/*
+div{
+	border: 1px solid white;
+}*/
 a {
 	color: #4FB69F;
 	text-decoration: none;
@@ -46,11 +49,26 @@ ul.nav li a{
 	color: #FAF3BC;
 }
 #intro{
+
+	text-align: center;
 	margin: 50px 0 75px 0;
 }
 
+#featured-cupcake{
+	text-align: center;
+}
+
+#hometown{
+	text-align: center;
+}
 #new-cupcakes {
 	text-align: center;
+}
+
+#hometown img{
+	border: 8px solid #FAF3BC;
+	height="50%";
+	width="50%";
 }
 
 #new-cupcakes img{
@@ -59,6 +77,7 @@ ul.nav li a{
 }
 
 #featured-cupcake img{
+	margin: 40px;
 	border: 8px solid #FAF3BC;
 }
 #copyright {
