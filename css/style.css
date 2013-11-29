@@ -21,7 +21,7 @@ h2{
 
 .btn{
 	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #4FB69F url('img/texture.png') repeat right top;
 	padding: 15px 30px ;  /* only two values makes the first being used for
 	top and bottom and the second for left and right*/
 	margin: 40px 0px;
@@ -49,8 +49,12 @@ ul.nav li a{
 	margin: 50px 0 75px 0;
 }
 
+#new-cupcakes {
+	text-align: center;
+}
+
 #new-cupcakes img{
-	border: 8px solid #FAF3BC;
+	border: 5px solid #FAF3BC;
 	margin: 0 0 20px 0;
 }
 
