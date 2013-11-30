@@ -1,88 +1,84 @@
 body {
-	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+  font-family: 'Nunito', sans-serif;
+  color: #FAF3BC;
+  background: #420600 url('img/bg-texture.jpg') repeat;
 }
-/*
-div{
-	border: 1px solid white;
-}*/
+
 a {
-	color: #4FB69F;
-	text-decoration: none;
+  color: #4FB69F;
+  text-decoration: none;
 }
 
-h1{
-	font-size: 1.750em;
-	letter-spacing: -1.5px;
+h1 {
+  font-size: 1.750em;
+  letter-spacing: -1.5px;
 }
 
-h2{
-	font-size: 1.5em;
-	color: #B4C34f;
+h2 {
+  font-size: 1.500em;
+  color: #B4C34F;
 }
 
-.btn{
-	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') repeat right top;
-	padding: 15px 30px ;  /* only two values makes the first being used for
-	top and bottom and the second for left and right*/
-	margin: 40px 0px;
-	border-radius: 25px;
-	text-transform: uppercase;
+.btn {
+  color: #FAF3BC;
+  background: #4FB69F url('img/texture.png') no-repeat right top;
+  padding: 15px 30px;
+  margin: 40px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
 }
+
 .btn:hover {
-	background-color: #4CC4A7;
-}
-ul.nav{
-	margin: 120px 0 0 0;
-	list-style: none;
-	float: right;
+  background-color: #4CC4A7;
 }
 
-ul.nav li{
-	float: left;
-	margin-right: 40px;
+ul.nav {
+  margin: 120px 0 0 0;
+  list-style: none;
+  float: right;
 }
 
-ul.nav li a{
-	color: #FAF3BC;
-}
-#intro{
-
-	text-align: center;
-	margin: 50px 0 75px 0;
+ul.nav li {
+  float: left;
+  margin-right: 40px;
 }
 
-#featured-cupcake{
-	text-align: center;
+ul.nav li a {
+  color: #FAF3BC;
 }
 
-#hometown{
-	text-align: center;
-}
-#new-cupcakes {
-	text-align: center;
+#intro {
+  margin: 0px 0 75px 0;
 }
 
-#hometown img{
-	border: 8px solid #FAF3BC;
-	height="50%";
-	width="50%";
+#new-cupcakes img {
+  border: 8px solid #FAF3BC;
+  margin: 0 0 20px 0;
 }
 
-#new-cupcakes img{
-	border: 5px solid #FAF3BC;
-	margin: 0 0 20px 0;
+#featured-cupcake img {
+  border: 8px solid #FAF3BC;
 }
 
-#featured-cupcake img{
-	margin: 40px;
-	border: 8px solid #FAF3BC;
-}
 #copyright {
-	border-top: 8px solid #2A0400;
-	padding: 10px 0;
-	margin: 15px 0px;
-	text-align: center;
+  border-top: 8px solid #2A0400;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
