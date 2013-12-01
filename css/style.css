@@ -47,15 +47,40 @@ ul.nav li a {
   color: #FAF3BC;
 }
 
+#squirrel img{
+  padding: 0 0 0 110px;
+}
+
 #intro {
+  margin: 70px 0 10px 0;
+  text-align: center;
+}
+
+#hometown{
+  float:right;
+  margin-top: 35px;
+  
+}
+
+#hometown h2{
+  margin-left: 70px;
+  margin-bottom: 5px;
+}
+
+#hometown img{
+  border: solid 5px;
+  margin-left: 70px;
+  margin-bottom: 20px
+
+}
+#new-cupcakes img {
+  border: 8px solid #FAF3BC;
   margin: 0 0 0px 0;
 }
 
-#new-cupcakes img {
-  border: 8px solid #FAF3BC;
-  margin: 0 0 20px 0;
+#featured-cupcake img {
+ margin-bottom: 20px;
 }
-
 #featured-cupcake img {
   border: 8px solid #FAF3BC;
 }
