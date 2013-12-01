@@ -1,27 +1,29 @@
 body {
-  font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  font-family: 'Signika Negative', sans-serif;
+  color: #6B4724;
+  background: #FFCC99 url('img/backgr.png') repeat;
+
 }
 
 a {
-  color: #4FB69F;
+  color: #2E1F0F;
   text-decoration: none;
 }
 
 h1 {
+  color: #6B4724;
   font-size: 1.750em;
   letter-spacing: -1.5px;
 }
 
 h2 {
+  color: #6B4724;
   font-size: 1.500em;
-  color: #B4C34F;
 }
 
 .btn {
   color: #FAF3BC;
-  background: #4FB69F url('img/texture.png') no-repeat right top;
+  background: #6B4724 url('img/texture.png') no-repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
   border-radius: 25px;
@@ -29,7 +31,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #957B62;
 }
 
 ul.nav {
@@ -48,7 +50,7 @@ ul.nav li a {
 }
 
 #squirrel img{
-  padding: 0 0 0 110px;
+  padding: 20px 0 0 110px;
 }
 
 #intro {
@@ -68,13 +70,13 @@ ul.nav li a {
 }
 
 #hometown img{
-  border: solid 5px;
+  border: solid 5px #957B62;
   margin-left: 70px;
   margin-bottom: 20px
 
 }
 #new-cupcakes img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #957B62;
   margin: 0 0 0px 0;
 }
 
@@ -82,28 +84,29 @@ ul.nav li a {
  margin-bottom: 20px;
 }
 #featured-cupcake img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #957B62;
+}
+
+#hobbies{
+  color: #FAF3BC;
+}
+
+#hobbies h2{
+  color: #FAF3BC;
+}
+#contact{
+  color: #FAF3BC;
+}
+
+#contact h2{
+  color: #FAF3BC;
 }
 
 #copyright {
-  border-top: 8px solid #2A0400;
+  color: #6B4724;
+  border-top: 8px solid #957B62;
   padding: 10px 0px;
   margin: 15px 0px;
   text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
